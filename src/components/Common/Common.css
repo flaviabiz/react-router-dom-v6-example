@@ -1,0 +1,12 @@
+.Common-nav {
+  height: 120px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: lightgrey;
+}
+
+.Common-nav-link {
+  margin: 0 10px;
+  color: black;
+}
